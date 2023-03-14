@@ -9,8 +9,11 @@ import { HttpClient } from '@angular/common/http';
       <li *ngFor="let video of videos">
         <h3>{{ video.video_title }}</h3>
         <p>{{ video.video_description }}</p>
-        <iframe width="560" height="315" [src]="video.video_url"></iframe>
-      </li>
+        <p>{{ video.video_url }}</p>
+
+        <iframe width="560" height="315" src= "{{ video.video_url }}"  title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+        </li>
     </ul>
   `,
 })
