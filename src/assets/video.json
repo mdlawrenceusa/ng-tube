@@ -1,0 +1,47 @@
+[
+  {
+    "id": 1,
+    "video_title": "Rails Demo",
+    "video_url": "https://www.youtube.com/embed/mpWFrUwAN88",
+    "video_description": "Rails 7 overview",
+    "created_at": "2023-03-14T14:20:17.452Z",
+    "updated_at": "2023-03-14T14:20:17.452Z",
+    "url": "https://a30a2c2546664cc489f4dc6931542b3c.vfs.cloud9.us-east-1.amazonaws.com/videos/1.json"
+  },
+  {
+    "id": 2,
+    "video_title": "NC ChatGPT",
+    "video_url": "https://www.youtube.com/embed/WRe46LISkTw",
+    "video_description": "Network Chuck on ChatGPT",
+    "created_at": "2023-03-14T14:20:17.470Z",
+    "updated_at": "2023-03-14T14:20:17.470Z",
+    "url": "https://a30a2c2546664cc489f4dc6931542b3c.vfs.cloud9.us-east-1.amazonaws.com/videos/2.json"
+  },
+  {
+    "id": 3,
+    "video_title": "MRSK",
+    "video_url": "https://www.youtube.com/embed/LL1cV2FXZ5I",
+    "video_description": "DHH MRSK overview",
+    "created_at": "2023-03-14T14:20:17.481Z",
+    "updated_at": "2023-03-14T14:20:17.481Z",
+    "url": "https://a30a2c2546664cc489f4dc6931542b3c.vfs.cloud9.us-east-1.amazonaws.com/videos/3.json"
+  },
+  {
+    "id": 4,
+    "video_title": "Docker",
+    "video_url": "https://www.youtube.com/embed/eGz9DS-aIeY",
+    "video_description": "Network Chuck on Docker",
+    "created_at": "2023-03-14T14:20:17.495Z",
+    "updated_at": "2023-03-14T14:20:17.495Z",
+    "url": "https://a30a2c2546664cc489f4dc6931542b3c.vfs.cloud9.us-east-1.amazonaws.com/videos/4.json"
+  },
+  {
+    "id": 5,
+    "video_title": "MVC",
+    "video_url": "https://www.youtube.com/embed/gI3pz7eFgfo",
+    "video_description": "CS193P Model View Controller",
+    "created_at": "2023-03-14T14:20:17.503Z",
+    "updated_at": "2023-03-14T14:20:17.503Z",
+    "url": "https://a30a2c2546664cc489f4dc6931542b3c.vfs.cloud9.us-east-1.amazonaws.com/videos/5.json"
+  }
+]
